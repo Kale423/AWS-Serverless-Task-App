@@ -23,7 +23,9 @@ The application uses the following AWS services:
 - Add tasks
 - View tasks
 - Delete tasks
-- Fully serverless architecture
+- Mark tasks as completed
+- Persistent task storage using DynamoDB
+- Serverless backend using AWS Lambda and API Gateway
 
 ## Technologies Used
 - HTML
