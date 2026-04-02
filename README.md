@@ -33,13 +33,13 @@ Amazon DynamoDB (Data Storage)
 ## Screenshots
 
 ### Task Dashboard
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](screenshots/task-dashboard.png)
 
 ### Add Task
 ![Add Task](screenshots/add-task.png)
 
 ### Completed Task
-![Completed Task](screenshots/completed.png)
+![Completed Task](screenshots/complete.png)
 
 ## How It Works
 
